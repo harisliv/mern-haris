@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mern-haris/static/css/main.1de46aec.chunk.css",
+    "main.js": "/mern-haris/static/js/main.85f0c52c.chunk.js",
+    "main.js.map": "/mern-haris/static/js/main.85f0c52c.chunk.js.map",
+    "runtime-main.js": "/mern-haris/static/js/runtime-main.563b7079.js",
+    "runtime-main.js.map": "/mern-haris/static/js/runtime-main.563b7079.js.map",
+    "static/js/2.07e843b4.chunk.js": "/mern-haris/static/js/2.07e843b4.chunk.js",
+    "static/js/2.07e843b4.chunk.js.map": "/mern-haris/static/js/2.07e843b4.chunk.js.map",
+    "index.html": "/mern-haris/index.html",
+    "precache-manifest.e3f5108af803e4be9c8c12a085b9c0b9.js": "/mern-haris/precache-manifest.e3f5108af803e4be9c8c12a085b9c0b9.js",
+    "service-worker.js": "/mern-haris/service-worker.js",
+    "static/css/main.1de46aec.chunk.css.map": "/mern-haris/static/css/main.1de46aec.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.563b7079.js",
+    "static/js/2.07e843b4.chunk.js",
+    "static/css/main.1de46aec.chunk.css",
+    "static/js/main.85f0c52c.chunk.js"
+  ]
+}
